@@ -36,7 +36,7 @@ Seit 2022 baue ich performante Systeme, automatisierte Lösungen und anspruchsvo
 
 ## 💠 **Discord Profil**
 
-![Discord](https://lanyard.cnrad.dev/api/789897704910225410?theme=dark\&borderRadius=15px\&idleMessage=Probably%20coding...)
+![Discord]([https://lanyard.cnrad.dev/api/789897704910225410?theme=dark\&borderRadius=15px\&idleMessage=Probably%20coding](https://lanyard.cnrad.dev/api/789897704910225410?theme=dark&borderRadius=15px&showDisplayName=true&bg=31b5ff))
 
 ---
 
