@@ -1,11 +1,4 @@
-Alles klar — hier bekommst du ein **komplettes, fertiges, professionelles GitHub-Profil-README**, inklusive **Discord-Profil Anzeige**, **GitHub-Stats**, **Trophäen**, Icons, geile Struktur und deinem ganzen Tech-Stack.
-Nur kopieren → in dein `USERNAME/USERNAME` Repo → fertig.
-
-Ich habe alles perfekt formatiert für GitHub.
-
----
-
-# 🐺 **Samuel — Fullstack Developer & IT Creator**
+# 🐻 **Samuel — Fullstack Developer & IT Creator**
 
 *Entwickler seit dem **15.04.2022***
 
