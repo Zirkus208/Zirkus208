@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, ich bin Samuel 👋
 
-<!--
-**Zirkus208/Zirkus208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Über mich
+Ich mache Discord Bots, Minecraft Plugins und vieles mehr.
 
-Here are some ideas to get you started:
+## 💻 Technologien
+- Java
+- Node.js
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zirkus208&show_icons=true)
+
+## 🔗 Links
+- Discord Server
+- Website
