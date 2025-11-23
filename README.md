@@ -67,7 +67,7 @@ Seit 2022 baue ich performante Systeme, automatisierte Lösungen und anspruchsvo
 
 | Service           | Link                             |
 | ----------------- | -------------------------------- |
-| 🌐 Website        | [Zirkus207](https://zirkus208.at/)               |
+| 🌐 Website        | [Zirkus208](https://zirkus208.at/)               |
 | 🤖 Discord Server | `COMING SOON`             |
 | 🧩 Projekte       | Public Repos auf meinem Profil   |
 
