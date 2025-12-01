@@ -18,6 +18,11 @@ Seit 2022 baue ich performante Systeme, automatisierte Lösungen und anspruchsvo
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2d79c7?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge\&logo=vite\&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### ⚙️ **Backend**
 
@@ -25,6 +30,7 @@ Seit 2022 baue ich performante Systeme, automatisierte Lösungen und anspruchsvo
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge\&logo=php\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052cc?style=for-the-badge\&logo=swagger\&logoColor=white)
 
 ### 🗄️ **Datenbanken**
 
@@ -36,17 +42,17 @@ Seit 2022 baue ich performante Systeme, automatisierte Lösungen und anspruchsvo
 
 ## 💠 **Discord Profil**
 
-![Discord](https://lanyard.cnrad.dev/api/789897704910225410?theme=dark&borderRadius=15px&showDisplayName=true&bg=31b5ff)
+![Discord](https://lanyard.cnrad.dev/api/789897704910225410?theme=dark\&borderRadius=15px\&showDisplayName=true\&bg=31b5ff)
 
 ---
 
 ## 🧩 **Projekte & Leistungen**
 
-* Discord Bots (Verifizierung, Logging, Dashboards, API-Systeme, etc...)
-* Minecraft Plugins (1.21+, Paper, Velocity, Datenbanken, etc...)
-* Web-Dashboards (Node.js)
+* Discord Bots (Verifizierung, Logging, Dashboards, API-Systeme)
+* Minecraft Plugins (1.21+, Paper, Velocity, Datenbanksysteme)
+* Web-Dashboards (Node.js / React / Vite / Next.js)
 * Automatisierte Systeme & APIs
-* IT-Services & Management
+* IT-Services, Hosting & Projektmanagement
 
 ---
 
@@ -65,11 +71,11 @@ Seit 2022 baue ich performante Systeme, automatisierte Lösungen und anspruchsvo
 
 ## 🔗 **Socials & Links**
 
-| Service           | Link                             |
-| ----------------- | -------------------------------- |
-| 🌐 Website        | [Zirkus208](https://zirkus208.at/)               |
-| 🤖 Discord Server | `COMING SOON`             |
-| 🧩 Projekte       | Public Repos auf meinem Profil   |
+| Service           | Link                               |
+| ----------------- | ---------------------------------- |
+| 🌐 Website        | [Zirkus208](https://zirkus208.at/) |
+| 🤖 Discord Server | `COMING SOON`                      |
+| 🧩 Projekte       | Public Repos auf meinem Profil     |
 
 ---
 
